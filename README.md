@@ -1,5 +1,8 @@
-# 👋 Hi there, I'm Sumit!
-
+<h1 align="center">
+  Hi there, I'm Sumit!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="vertical-align:middle;" />
+  
+</h1>
 🎓 I'm a Computer Science Engineering student at [BIT Mesra](https://www.bitmesra.ac.in/), passionate about software development, problem-solving, and building impactful tech solutions.
 
 ---
@@ -65,6 +68,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitksr/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://portfolio-3gsk.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+## 🎯 Visitor Counter
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
+</div>
 
 ---
 
