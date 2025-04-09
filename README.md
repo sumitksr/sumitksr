@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="vertical-align:middle;" />
   
 </h1>
+
 🎓 I'm a Computer Science Engineering student at [BIT Mesra](https://www.bitmesra.ac.in/), passionate about software development, problem-solving, and building impactful tech solutions.
 
 ---
