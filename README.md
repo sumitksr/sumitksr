@@ -36,8 +36,10 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sumitksr?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/sumitksr)
 
-
 ---
+## Codeforces Profile
+[![Codeforces](https://cf.leed.at?id=sumitksr)](https://codeforces.com/profile/sumitksr)
+
 
 ## 📈 GitHub Stats
 
