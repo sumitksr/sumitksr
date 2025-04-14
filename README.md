@@ -1,23 +1,37 @@
 <h1 align="center">
-  Hi there, I'm Sumit!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="vertical-align:middle;" />
-  
+  Hi there, I'm Sumit! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </h1>
 
-🎓 I'm a Computer Science Engineering student at [BIT Mesra](https://www.bitmesra.ac.in/), passionate about software development, problem-solving, and building impactful tech solutions.
+<p align="center">
+  🎓 Computer Science Engineering student at <a href="https://www.bitmesra.ac.in/">BIT Mesra</a> <br>
+  💻 Passionate about software development, problem-solving & impactful tech solutions
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **full-stack web development** and **competitive programming**
-- 🌱 Exploring **Machine Learning**.
-- 🧠 Regular problem-solver on LeetCode & other coding platforms
-- 💬 Ask me about **C++**, **Data Structures & Algorithms**, or anything tech!
+- 🔭 Currently diving into **Full-Stack Web Development** & **Competitive Programming**
+- 🌱 Exploring the fascinating world of **Machine Learning**
+- 🧠 Regular problem-solver on **LeetCode**, **Codeforces**, and other coding platforms
+- 💬 Talk to me about **C++**, **DSA**, or anything tech!
 
 ---
 
-## 🌐 Featured Projects
+## 🧠 LeetCode Stats
+
+- 👨‍💻 Solved ***450+ problems***
+- 💪 Focused on mastering **Data Structures & Algorithms**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sumitksr)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sumitksr?theme=dark&font=Fira+Code&ext=heatmap" />
+</p>
+
+---
+
+## 🌟 Featured Projects
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
@@ -25,35 +39,29 @@
 | 🚇 **Delhi Metro Route Optimizer** | A tool to find the most efficient metro routes using graph algorithms | [Visit Site](https://delhi-metro-app-ochre.vercel.app/) |
 | 💳 **Razorpay Clone** | A responsive UI clone of Razorpay built with React and Tailwind CSS | [Visit Site](https://razorpay-clone-eight-woad.vercel.app/) |
 
-> 🌟 *More projects on the way! Check the pinned repos below 👇*
+> 🚀 *More projects on the way! Check the pinned repos below 👇*
 
 ---
 
-## 🧠 LeetCode Profile
+## 💻 Competitive Programming
 
-- 👨‍💻 Over ***450+ problems solved***
-- 💪 Focused on mastering **Data Structures & Algorithms**
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sumitksr)
-
-### 📊 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sumitksr?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/sumitksr)
-
----
-## Codeforces Profile
+### 🔸 Codeforces  
 [![Codeforces](https://cf.leed.at?id=sumitksr)](https://codeforces.com/profile/sumitksr)
 
+---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitksr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitksr&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitksr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitksr&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
-### 🛠️ Tech Stack & Tools
 
-<p align="left">
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -64,16 +72,28 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+---
+
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitksr/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://portfolio-3gsk.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumitksr/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-3gsk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
+
 ## 🎯 Visitor Counter
+
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
+  <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg" />
 </div>
 
 ---
