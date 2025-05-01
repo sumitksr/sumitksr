@@ -20,7 +20,7 @@
 
 ## 🧠 LeetCode Stats
 
-- 👨‍💻 Solved ***450+ problems***
+- 👨‍💻 Solved ***500+ problems***
 - 💪 Focused on mastering **Data Structures & Algorithms**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sumitksr)
