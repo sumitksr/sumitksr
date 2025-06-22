@@ -1,6 +1,18 @@
-<h1 align="center">
-  Hi there, I'm Sumit! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-</h1>
+<p align="center">
+  <img src="https://github.com/sumitksr/sumitksr/blob/main/banner.png" />
+</p>
+
+<p align="center">
+  <span>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?color=5EF72C&size=26&center=true&vCenter=true&lines=Hey!+This+is+Sumit+Kumar;I'm+a+Full+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
+    </a>
+  </span>
+</p>
+
+
+
+
 
 <p align="center">
   🎓 Computer Science Engineering student at <a href="https://www.bitmesra.ac.in/">BIT Mesra</a> <br>
@@ -58,7 +70,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitksr&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitksr&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+  </p>
+
+![Sumit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitksr&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
+
 
 ---
 
