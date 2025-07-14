@@ -119,7 +119,8 @@
 ## 🎯 Visitor Counter
 
 <div align="center">
-  <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg" />
+  ![Profile Views](https://profile-counter.glitch.me/sumitksr/count.svg)
+
 </div>
 
 ---
