@@ -12,9 +12,6 @@
 </p>
 
 
-
-
-
 <p align="center">
   🎓 Computer Science Engineering student at <a href="https://www.bitmesra.ac.in/">BIT Mesra</a> <br>
   💻 Passionate about software development, problem-solving & impactful tech solutions
@@ -116,13 +113,5 @@
 
 ---
 
-## 🎯 Visitor Counter
-
-<div align="center">
-  ![Profile Views](https://profile-counter.glitch.me/sumitksr/count.svg)
-
-</div>
-
----
 
 > ⚡ *"Code, Learn, Build, Repeat."*
