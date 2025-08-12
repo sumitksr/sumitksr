@@ -50,7 +50,8 @@
 | 📝 **Blog Website** | A full-stack blog platform where users can read and share posts | [Visit Site](https://blogapp-sumitksr.vercel.app/) |
 | 🌦️ **Weather App** | A simple weather forecasting app using OpenWeatherMap API | [Visit Site](https://weather-app-alpha-azure.vercel.app/) |
 | 💼 **Portfolio Website** | A sleek personal website showcasing my work and journey | [Visit Site](http://sumitksr.vercel.app/) |
-| 💳 **Razorpay Clone** | A responsive UI clone of Razorpay built with React and Tailwind CSS | [Visit Site](https://razorpay-clone-eight-woad.vercel.app/) |
+| 🔗 **BIT Zipp** | A fast and reliable URL shortener with analytics tracking | [Visit Site](https://bitzipp.vercel.app/) |
+
 
 
 > 🚀 *More projects on the way! Check the pinned repos below 👇*
